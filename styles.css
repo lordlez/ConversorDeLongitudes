@@ -59,6 +59,13 @@ body{
     height: 5rem;
     width: 20rem;
     margin: 2rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    font-size: 2rem;
+}
+
+.boton:hover{
+    background-color: #a8dadc;
 }
 
 
